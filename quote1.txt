@@ -1,0 +1,4 @@
+hello, world! (How are you today?)
+Python is fun: is'nt it?
+Lets test these symbols -  [wow] {amazing}; "cool" and great.
+end of text.
